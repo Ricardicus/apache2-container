@@ -22,4 +22,4 @@ docker run --rm -dit -p 8080:80 -v A/B/C:/var/www/listing apache2:1.0
 
 and you will have this server running.. 
 
-<img src="https://raw.githubusercontent.com/Ricardicus/apache2-container/image/demo.png"></img>
+<img src="https://raw.githubusercontent.com/Ricardicus/apache2-container/master/image/demo.png"></img>
